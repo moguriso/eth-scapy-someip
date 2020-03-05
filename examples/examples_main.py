@@ -1,5 +1,5 @@
 import unittest
-import HtmlTestRunner
+#import HtmlTestRunner
 from ex_00_basics import ex_00_basics
 from ex_01_someip import ex_01_someip
 from ex_02_sd import ex_02_sd
